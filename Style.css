@@ -1,0 +1,32 @@
+.blue{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+
+.black{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+}
+
+.red{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.green{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+
+div{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: flex-start;
+    justify-content: space-between;
+    height: 200px;
+    width: 1200px;
+}
